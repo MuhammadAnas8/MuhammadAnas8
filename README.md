@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/anasswati_" target="blank"><img src="https://img.shields.io/twitter/follow/anasswati_?logo=twitter&style=for-the-badge" alt="anasswati_" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce-Site](https://github.com/MuhammadAnas8/Ecommerce-Site)
+- 🔭 I’m currently working on FYP
 
 - 🌱 I’m currently learning **React and Node.js**
 
