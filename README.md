@@ -9,7 +9,7 @@ Building production-ready web applications with modern JavaScript stack.
 
 ## 🚀 Portfolio
 🌐 https://muhammadanas.top  
-📄 Resume: https://drive.google.com/file/d/1OGRQ_37-x4IfM43INXOFeoV_CCs9KYxk/view  
+📄 Resume: https://drive.google.com/file/d/1qJfsf1nPzMj4GGXtdQ9oeN1hmmJS6GzP/view
 
 ---
 
